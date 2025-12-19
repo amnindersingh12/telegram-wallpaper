@@ -1,0 +1,75 @@
+# Telegram Wallpaper App
+
+## Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+## IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+## VS Code related
+.vscode/
+
+## Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+## Symbolication related
+app.*.symbols
+
+## Obfuscation related
+app.*.map.json
+
+## Android Studio
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+## Local configuration
+*.local
+local.properties
+
+## Python virtualenvs
+.venv/
+venv/
+backend/venv/
+
+## Environment files (keep example)
+.env
+.env.*
+!.env.example
+
+## Telegram / Pyrogram session artifacts
+session_string.txt
+**/session_string.txt
+**/*.session
+**/*.session-journal
+**/*.session-shm
+**/*.session-wal
+
+## Logs
+*.log
+backend/server.log
+
+## Sensitive files
+**/telegram_config_local.dart

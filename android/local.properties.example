@@ -1,0 +1,8 @@
+# This file contains configuration for the Telegram Wallpaper App
+# Copy this file to local.properties and fill in your Flutter SDK path
+
+# Path to Flutter SDK (required)
+# flutter.sdk=/path/to/flutter
+
+# Path to Android SDK (usually auto-detected)
+# sdk.dir=/path/to/android/sdk
