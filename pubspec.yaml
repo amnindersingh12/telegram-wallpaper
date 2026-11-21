@@ -34,7 +34,7 @@ dependencies:
   workmanager: ^0.6.0
   
   # Permissions
-  permission_handler: ^11.3.1
+  permission_handler: ^13.0.2
   
   # SQLite for local database
   sqflite: ^2.3.0
