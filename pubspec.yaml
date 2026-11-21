@@ -22,7 +22,7 @@ dependencies:
   cached_network_image: ^4.0.7
   
   # Shimmer loading effect
-  shimmer: ^3.0.0
+  shimmer: ^4.0.0
   
   # Wallpaper setting (Android only)
   flutter_wallpaper_manager: ^0.0.4
