@@ -122,7 +122,7 @@ class BackgroundTaskManager {
       constraints: Constraints(
         networkType: NetworkType.connected,
       ),
-      existingWorkPolicy: ExistingPeriodicWorkPolicy.update,
+      existingWorkPolicy: ExistingPeriodicWorkPolicy.replace,
     );
     
     print('Scheduled wallpaper update every $intervalMinutes minutes');
