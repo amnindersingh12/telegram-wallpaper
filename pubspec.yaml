@@ -19,7 +19,7 @@ dependencies:
   shared_preferences: ^2.2.2
   
   # Image caching and display
-  cached_network_image: ^3.3.0
+  cached_network_image: ^4.0.7
   
   # Shimmer loading effect
   shimmer: ^3.0.0
